@@ -1,0 +1,12 @@
+C:\Users\gozyo\source\repos\_2020-07-21_Robot\_2020-07-21_Robot\bin\Debug\RobotDataBase.mdf
+C:\Users\gozyo\source\repos\_2020-07-21_Robot\_2020-07-21_Robot\bin\Debug\RobotDataBase_log.ldf
+C:\Users\gozyo\source\repos\_2020-07-21_Robot\_2020-07-21_Robot\bin\Debug\_2020-07-21_Robot.exe.config
+C:\Users\gozyo\source\repos\_2020-07-21_Robot\_2020-07-21_Robot\bin\Debug\_2020-07-21_Robot.exe
+C:\Users\gozyo\source\repos\_2020-07-21_Robot\_2020-07-21_Robot\bin\Debug\_2020-07-21_Robot.pdb
+C:\Users\gozyo\source\repos\_2020-07-21_Robot\_2020-07-21_Robot\obj\Debug\_2020-07-21_Robot.csprojAssemblyReference.cache
+C:\Users\gozyo\source\repos\_2020-07-21_Robot\_2020-07-21_Robot\obj\Debug\_2020_07_21_Robot.Form1.resources
+C:\Users\gozyo\source\repos\_2020-07-21_Robot\_2020-07-21_Robot\obj\Debug\_2020_07_21_Robot.Properties.Resources.resources
+C:\Users\gozyo\source\repos\_2020-07-21_Robot\_2020-07-21_Robot\obj\Debug\_2020-07-21_Robot.csproj.GenerateResource.cache
+C:\Users\gozyo\source\repos\_2020-07-21_Robot\_2020-07-21_Robot\obj\Debug\_2020-07-21_Robot.csproj.CoreCompileInputs.cache
+C:\Users\gozyo\source\repos\_2020-07-21_Robot\_2020-07-21_Robot\obj\Debug\_2020-07-21_Robot.exe
+C:\Users\gozyo\source\repos\_2020-07-21_Robot\_2020-07-21_Robot\obj\Debug\_2020-07-21_Robot.pdb
